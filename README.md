@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **saikat20034/saikat20034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you <h1 align="center">Hi 👋, I'm Md.Mazharul Islam Saikat</h1>
