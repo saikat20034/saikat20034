@@ -21,7 +21,7 @@
 - 🌱 Currently learning **Angular** & exploring deeper into **TypeScript & Clean Architecture**
 - 💻 Tech Stack includes **React**, **Node.js**, **MongoDB**, **Firebase**, **Tailwind CSS**
 - 💬 Ask me about anything [here](https://github.com/saikat20034/issues)
-- 🌍 Portfolio: 
+- 🌍 Portfolio: https://portfolio-five-pi-80.vercel.app/
 
 ---
 
