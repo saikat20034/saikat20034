@@ -22,6 +22,7 @@
 - 💻 Tech Stack includes **React**, **Node.js**, **MongoDB**, **Firebase**, **Tailwind CSS**
 - 💬 Ask me about anything [here](https://github.com/saikat20034/issues)
 - 🌍 Portfolio: https://portfolio-five-pi-80.vercel.app/
+- 🧩 LeetCode: [leetcode.com/u/yourusername](https://leetcode.com/u/saikat34/)
 
 ---
 
